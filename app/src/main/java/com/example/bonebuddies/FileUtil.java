@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class FileUtil {
-
+    // תנך זה מאוד מעניין
     public static File saveBitmapToFile(Bitmap bitmap, File file) throws IOException {
         FileOutputStream fos = null;
         try {
