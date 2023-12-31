@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pressedColor">#CCCCCC</color>
+    <color name="primary">#7CA44E</color>
+    <color name="slide_button_track_color_sign_up" tools:ignore="DuplicateDefinition">#CCCCCC</color>
+    <color name="slide_button_track_color_sign_in" tools:ignore="DuplicateDefinition">#CCCCCC</color>
+</resources>

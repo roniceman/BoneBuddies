@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561683452191",
+    "project_id": "bone-buddies-5f129",
+    "storage_bucket": "bone-buddies-5f129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561683452191:android:9ae9afde0efc3a2ba6202a",
+        "android_client_info": {
+          "package_name": "com.example.bonebuddies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jRo3ht3G24XyN657LT_dVGibjePLFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561683452191:android:b93d8ecbd8eed3b4a6202a",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jRo3ht3G24XyN657LT_dVGibjePLFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
